@@ -102,8 +102,9 @@ app.get('/',(req,res) => {
     res.render('index');
 });
 
-app.listen(8080, () => {
-    console.log('listening at http://localhost:8080');
-});
+// app.listen(8080, () => {
+//     console.log('listening at http://localhost:8080');
+// });
 
 
+app.listen(process.env.PORT || 5000)
