@@ -19,6 +19,14 @@
     z-index: -1;
 }
 
+body {
+    font-family: "Nunito", sans-serif;
+    margin: 0rem;
+    padding: 0rem;
+    background: #ffffff;
+    font-size: 0.8rem;
+}
+
 
 
 a:link {
