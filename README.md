@@ -1,2 +1,6 @@
-# portfolio
-Portfolio showcasing website using EJS, HTML and CSS.
+# Personal website
+
+## Deploying instructions
+
+git push heroku master
+
