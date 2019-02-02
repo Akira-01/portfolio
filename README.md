@@ -1,4 +1,3 @@
-# Personal website
 
 ## Deploying instructions
 
