@@ -1,6 +1,6 @@
-### Personal website
+## Personal website
 
-## Deploying instructions
+### Deploying instructions
 
 git push heroku master
 
