@@ -1,6 +1,6 @@
 ## Personal website
 
-This is my website using EJS, JavaScript, HTML and CSS
+This is my website using EJS, JavaScript, HTML and CSS, it's still under construction
 
 ### Setup
 
